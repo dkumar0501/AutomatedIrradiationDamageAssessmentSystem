@@ -55,8 +55,8 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 
 ## 👨‍💻 Author
 
-**Developed by [Shubhanshu Kumar](https://github.com/shubhanshu-kumar)**  
-B.S. in Computer Science and Data Analytics, **IIT Patna**
+**Developed by [D Kumar](https://github.com/dkumar0501)**  
+BS in Computer Science and Data Analytics, **IIT Patna**
 
 ---
 
