@@ -1,4 +1,5 @@
-<h1 align="left">Radiation Sensor Degradation Analysis System</h1>
+<h1 align="left">AutomatedIrradiationDamageAssessmentSystem
+</h1>
 
 <p align="left">
   <strong>Python • Machine Learning • Data Analysis • CERN IRRAD</strong>
@@ -36,10 +37,10 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 | **Data Generation** | Synthetic datasets simulating irradiation exposure |
 | **Modeling** | Regression-based radiation damage prediction |
 | **Visualization** | Multi-layered plots of signal degradation and noise evolution |
-| **Output** | Summary metrics, graphs, and model-based degradation reports |
+| **Output** | Summary metrics, graphs, and model based degradation reports |
 
 
-##Project Live Working
+##  📷 Project Live Working
 
 video
 
