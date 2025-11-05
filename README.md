@@ -3,7 +3,7 @@
 <h1 align="left">Automated Irradiation Damage Assessment System (AIDAS)</h1>
 
 <p align="left">
-  <b>Evaluating sensor degradation under extreme radiation environments using data-driven analysis and ML modeling</b>
+  <b>Evaluating sensor degradation under extreme radiation environments using data driven analysis and ML modeling</b>
 </p>
 
 <p align="left">
