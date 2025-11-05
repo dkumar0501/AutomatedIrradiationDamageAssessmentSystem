@@ -1,18 +1,65 @@
-
-
-<h1 align="left">Automated Irradiation Damage Assessment System (AIDAS)</h1>
+<h1 align="left">Radiation Sensor Degradation Analysis System</h1>
 
 <p align="left">
-  <b>Evaluating sensor degradation under extreme radiation environments using data driven analysis and ML modeling</b>
+  <strong>Python • Machine Learning • Data Analysis • CERN IRRAD</strong>
 </p>
 
+<!-- Badges -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit%20Learn-orange?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-green?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-CERN%20IRRAD%20Facility-purple?style=flat-square&logo=researchgate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange?logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Automated-success?logo=plotly&logoColor=white" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/CERN-IRRAD%20Compatible-9cf?logo=cern&logoColor=white" alt="CERN IRRAD">
+  <img src="https://img.shields.io/github/license/shubhanshu-kumar/radiation-sensor-analysis?color=brightgreen" alt="License">
 </p>
 
 ---
 
+## 📘 Overview
+
+This project is a **Python-based automated analysis system** designed to **evaluate sensor degradation under extreme radiation environments**.  
+It enables **synthetic irradiation data generation**, **data preprocessing**, **visualization**, and **radiation damage modeling** to support **radiation-hardness studies** and material reliability assessments.
+
+---
+
+## 🚀 Features
+
+- Automated comparison of pre- and post-irradiation sensor data  
+- Synthetic dataset generation with noise modeling  
+- Statistical and machine learning-based degradation analysis  
+- Interactive visualizations using Matplotlib and Plotly  
+- Radiation damage modeling for dose-response relationships  
+
+---
+
+## 🧠 Technical Overview
+
+| Component | Description |
+|------------|-------------|
+| **Programming Language** | Python (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn) |
+| **Data Generation** | Synthetic datasets simulating irradiation exposure |
+| **Modeling** | Regression-based radiation damage prediction |
+| **Visualization** | Multi-layered plots of signal degradation and noise evolution |
+| **Output** | Summary metrics, graphs, and model-based degradation reports |
+
+---
+
+## 🧩 Future Enhancements
+
+- Integration with **real CERN irradiation datasets**  
+- Inclusion of **temperature** and **dose rate** parameters  
+- Development of a **Streamlit-based interactive dashboard**  
+- Expansion to **simulation coupling with Geant4 or FLUKA**
+
+---
+
+## 👨‍💻 Author
+
+**Developed by [Shubhanshu Kumar](https://github.com/shubhanshu-kumar)**  
+B.S. in Computer Science and Data Analytics, **IIT Patna**
+
+---
+
+<p align="center">
+  <em>“Advancing data-driven insights into sensor radiation resilience.”</em>
+</p>
