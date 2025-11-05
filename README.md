@@ -39,6 +39,11 @@ It enables **synthetic irradiation data generation**, **data preprocessing**, **
 | **Output** | Summary metrics, graphs, and model-based degradation reports |
 
 
+##Project Live Working
+
+video
+
+
 ## 🧩 Future Enhancements
 
 - Integration with **real CERN irradiation datasets**  
