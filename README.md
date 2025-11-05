@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange?logo=tensorflow&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Data%20Analysis-Automated-success?logo=plotly&logoColor=white" alt="Data Analysis">
   <img src="https://img.shields.io/badge/CERN-IRRAD%20Compatible-9cf?logo=cern&logoColor=white" alt="CERN IRRAD">
-  <img src="https://img.shields.io/github/license/shubhanshu-kumar/radiation-sensor-analysis?color=brightgreen" alt="License">
 </p>
 
 ---
