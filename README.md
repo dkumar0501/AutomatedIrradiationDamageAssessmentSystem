@@ -1,4 +1,4 @@
-<h1 align="left">Automated Irradiation Damage Analysis System
+<h1 align="left">Sensor Irradiation Damage Analysis System
 </h1>
 
 <p align="left">
