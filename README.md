@@ -16,7 +16,8 @@
 
 ## 📘 Overview
 
-This project is a **Python based automated analysis system** designed to **evaluate sensor degradation under extreme radiation environments**. It enables **synthetic irradiation data generation**, **data preprocessing**, **visualization**, and **radiation damage modeling** to support **radiation hardness studies** and material reliability assessments pre and post radiation exposure.
+This project is a A Python based automated analysis system that evaluates sensor degradation by comparing pre  and post irradiation measurements.
+It preprocesses data, visualizes detector performance differences, and models radiation induced damage using synthetic datasets.
 
 
 ## 🚀 Features
